@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\С++\C#\Rectangle\bin\Debug\Rectangle.exe.config
+C:\Users\Admin\Desktop\С++\C#\Rectangle\bin\Debug\Rectangle.exe
+C:\Users\Admin\Desktop\С++\C#\Rectangle\bin\Debug\Rectangle.pdb
+C:\Users\Admin\Desktop\С++\C#\Rectangle\obj\Debug\Rectangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\С++\C#\Rectangle\obj\Debug\Rectangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\С++\C#\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\С++\C#\Rectangle\obj\Debug\Rectangle.exe
+C:\Users\Admin\Desktop\С++\C#\Rectangle\obj\Debug\Rectangle.pdb
